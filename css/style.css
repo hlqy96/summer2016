@@ -1,0 +1,25 @@
+body
+		    {
+		    	background: url(../img/p_01.jpg) fixed;
+		    }    
+		 
+			.session1
+			{
+				padding: 10px;
+				margin: 10px;
+				float: left;
+				/*border: solid 1px red;*/
+				background-color: #ffffff;
+			}
+			
+			.session1>img
+			{
+				width:150px;
+				height: auto;
+			}
+			
+			.session1>p
+			{
+				font-family: "微软雅黑";
+				font-size: 14px;
+			}
